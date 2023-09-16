@@ -4,6 +4,7 @@
     width: 100vw;
     max-width: 60rem;
     margin: 0 auto;
+    margin-top: 2rem;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -22,7 +23,7 @@
 .clientImgs{
     margin: 1rem 0;
     display: flex;
-    background-color: rgb(40,40,40));
+    background-color: rgb(40,40,40)
    
 }
 .clientImg{
@@ -33,6 +34,7 @@
     margin: 2.5rem;
     padding: 0.25rem;
     flex-wrap: wrap;
+    margin-bottom: 2rem;
 
 }
 #cilents{
